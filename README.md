@@ -23,6 +23,12 @@
 
 ===================================================
 
+## How to run
+
+- main.py
+
+  main.py contains code to show how to use insertion_sort and bubble_sort. you can just simply import the methods from their respective files and then call the methods on lists of Integers. There is no error checking done as to what type of list is being passed. So, be careful. To run the tests, simply run tests.py
+
 Thank you so much.\
 Warmest regards,\
 Kanishka Verma
